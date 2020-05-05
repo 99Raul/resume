@@ -1,0 +1,22 @@
+{
+	"name": "Raul Salazar",
+	"website": "",
+	"linkedin": "https://www.linkedin.com/in/raul-salazar-a621511a7/",
+	"github": "99Raul",
+	"email": "rauljr96@gmail.com",
+	"resume": "",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["command line"]
+}
